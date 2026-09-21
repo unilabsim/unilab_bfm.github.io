@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "robot": "T800",
+  "motion_idx": 633,
+  "motion_key": "dance2_subject1_clip0",
+  "start_step": 0,
+  "start_time_s": 0.0,
+  "duration_s": 6.0,
+  "fps": 50,
+  "frame_count": 300,
+  "completed": true,
+  "finite_rollout": true,
+  "checkpoint": "cpof_bfmzero/t800_v1",
+  "checkpoint_weights": "cpof_bfmzero/t800_v1/model/model.safetensors",
+  "checkpoint_sha256_head": "daffab7ca0704313",
+  "checkpoint_step": null,
+  "checkpoint_step_note": "deployment artifact has no train_status.json",
+  "checkpoint_internal_counters": {
+    "_aux_reward_normalizer.counter": 1236960,
+    "_obs_normalizer._normalizers.history_actor._normalizer.num_batches_tracked": 2473920,
+    "_obs_normalizer._normalizers.last_action._normalizer.num_batches_tracked": 2473920,
+    "_obs_normalizer._normalizers.privileged_state._normalizer.num_batches_tracked": 2473920,
+    "_obs_normalizer._normalizers.state._normalizer.num_batches_tracked": 2473920
+  },
+  "error_stats": {
+    "root_err_cm": {
+      "mean": 16.10776752,
+      "p50": 6.371842,
+      "p95": 53.653852900000004,
+      "max": 57.29667,
+      "final": 57.281271
+    },
+    "body_err_cm": {
+      "mean": 17.255586433333335,
+      "p50": 8.236071,
+      "p95": 53.52367075,
+      "max": 57.613012,
+      "final": 57.173185
+    }
+  },
+  "render": {
+    "resolution": "1920x1080",
+    "codec": "H.264 / libx264 / yuv420p",
+    "overlay": "same viewport; untouched T800 robot with cyan reference markers",
+    "on_video_error_text": false
+  },
+  "runtime": {
+    "torch": "2.8.0+cu128",
+    "torch_cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "mujoco": "3.8.0"
+  },
+  "git": {
+    "branch": "issuelxf",
+    "commit": "9b665f420a758f5b3df0b6ffe10ac3a5a35aa9f8"
+  },
+  "outputs": {
+    "clip": "gallery/t800_tracking/g1_clip-13_motion633/clip.mp4",
+    "preview": "gallery/t800_tracking/g1_clip-13_motion633/preview.jpg",
+    "frame_errors": "gallery/t800_tracking/g1_clip-13_motion633/frame_errors.json",
+    "reference_qpos": "gallery/t800_tracking/g1_clip-13_motion633/reference_qpos.npy",
+    "policy_qpos": "gallery/t800_tracking/g1_clip-13_motion633/policy_qpos.npy"
+  },
+  "reproduction_command": "python scripts/report/render_t800_tracking_overlay.py --checkpoint cpof_bfmzero --motion_idx 633 --motion_key dance2_subject1_clip0 --out gallery/t800_tracking/g1_clip-13_motion633 --start_step 0 --seconds 6 --device cuda",
+  "g1_candidate": "clip-13",
+  "g1_reference_clip": "Unilab-BFM0/gallery/v2_candidates/clip-13/clip.mp4",
+  "g1_reference_meta": "Unilab-BFM0/gallery/v2_candidates/clip-13/meta.json",
+  "g1_matched": {
+    "same_motion": true,
+    "same_start_step": true,
+    "same_start_time_s": true,
+    "same_duration_s": true,
+    "same_frame_count": true
+  },
+  "same_as_g1": true,
+  "rollout_diagnostics": {
+    "finite": true,
+    "min_policy_z_m": 0.9777649641036987,
+    "max_base_displacement_m": 0.7923249074659622,
+    "final_root_err_cm": 57.281271
+  },
+  "tracking_quality": "pass"
+}

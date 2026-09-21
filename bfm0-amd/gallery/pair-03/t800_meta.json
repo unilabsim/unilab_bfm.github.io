@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "robot": "T800",
+  "motion_idx": 857,
+  "motion_key": "fightAndSports1_subject4_clip19",
+  "start_step": 100,
+  "start_time_s": 2.0,
+  "duration_s": 6.0,
+  "fps": 50,
+  "frame_count": 300,
+  "completed": true,
+  "finite_rollout": true,
+  "checkpoint": "cpof_bfmzero/t800_v1",
+  "checkpoint_weights": "cpof_bfmzero/t800_v1/model/model.safetensors",
+  "checkpoint_sha256_head": "daffab7ca0704313",
+  "checkpoint_step": null,
+  "checkpoint_step_note": "deployment artifact has no train_status.json",
+  "checkpoint_internal_counters": {
+    "_aux_reward_normalizer.counter": 1236960,
+    "_obs_normalizer._normalizers.history_actor._normalizer.num_batches_tracked": 2473920,
+    "_obs_normalizer._normalizers.last_action._normalizer.num_batches_tracked": 2473920,
+    "_obs_normalizer._normalizers.privileged_state._normalizer.num_batches_tracked": 2473920,
+    "_obs_normalizer._normalizers.state._normalizer.num_batches_tracked": 2473920
+  },
+  "error_stats": {
+    "root_err_cm": {
+      "mean": 37.23020515,
+      "p50": 43.324336,
+      "p95": 59.699118,
+      "max": 60.955782,
+      "final": 28.568975
+    },
+    "body_err_cm": {
+      "mean": 37.825926636666665,
+      "p50": 43.8006975,
+      "p95": 60.10563445,
+      "max": 61.466569,
+      "final": 32.628533
+    }
+  },
+  "render": {
+    "resolution": "1920x1080",
+    "codec": "H.264 / libx264 / yuv420p",
+    "overlay": "same viewport; untouched T800 robot with cyan reference markers",
+    "on_video_error_text": false
+  },
+  "runtime": {
+    "torch": "2.8.0+cu128",
+    "torch_cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "mujoco": "3.8.0"
+  },
+  "git": {
+    "branch": "issuelxf",
+    "commit": "9b665f420a758f5b3df0b6ffe10ac3a5a35aa9f8"
+  },
+  "outputs": {
+    "clip": "gallery/t800_tracking/g1_clip-06_motion857/clip.mp4",
+    "preview": "gallery/t800_tracking/g1_clip-06_motion857/preview.jpg",
+    "frame_errors": "gallery/t800_tracking/g1_clip-06_motion857/frame_errors.json",
+    "reference_qpos": "gallery/t800_tracking/g1_clip-06_motion857/reference_qpos.npy",
+    "policy_qpos": "gallery/t800_tracking/g1_clip-06_motion857/policy_qpos.npy"
+  },
+  "reproduction_command": "python scripts/report/render_t800_tracking_overlay.py --checkpoint cpof_bfmzero --motion_idx 857 --motion_key fightAndSports1_subject4_clip19 --out gallery/t800_tracking/g1_clip-06_motion857 --start_step 100 --seconds 6 --device cuda",
+  "g1_candidate": "clip-06",
+  "g1_reference_clip": "Unilab-BFM0/gallery/v2_candidates/clip-06/clip.mp4",
+  "g1_reference_meta": "Unilab-BFM0/gallery/v2_candidates/clip-06/meta.json",
+  "g1_matched": {
+    "same_motion": true,
+    "same_start_step": true,
+    "same_start_time_s": true,
+    "same_duration_s": true,
+    "same_frame_count": true
+  },
+  "same_as_g1": true,
+  "rollout_diagnostics": {
+    "finite": true,
+    "min_policy_z_m": 0.8844504356384277,
+    "max_base_displacement_m": 3.675263553001508,
+    "final_root_err_cm": 28.568975
+  },
+  "tracking_quality": "pass"
+}

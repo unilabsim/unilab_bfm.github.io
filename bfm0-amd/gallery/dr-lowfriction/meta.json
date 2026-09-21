@@ -1,0 +1,35 @@
+{
+  "mode": "low_friction",
+  "motion_idx": 700,
+  "motion_key": "walk2_subject3_clip7",
+  "duration_s": 6.0,
+  "fps": 50,
+  "frame_count": 300,
+  "completed": true,
+  "checkpoint": "cpof_bfmzero/g1_drv2",
+  "checkpoint_weights": "cpof_bfmzero/g1_drv2/model/model.safetensors",
+  "perturbation": {
+    "type": "low_friction",
+    "seed": 29,
+    "friction_multiplier": 0.3,
+    "push_time_s": null,
+    "push_speed_mps": null,
+    "push_direction_xy": null
+  },
+  "error_stats": {
+    "root_err_cm": {
+      "mean": 25.056935853333343,
+      "max": 84.136642,
+      "final": 84.136642
+    }
+  },
+  "runtime": {
+    "torch": "2.8.0+cu128",
+    "gpu": "NVIDIA GeForce RTX 4090"
+  },
+  "git": {
+    "branch": "issuelxf",
+    "commit": "9b665f420a758f5b3df0b6ffe10ac3a5a35aa9f8"
+  },
+  "reproduction_command": "python scripts/report/render_domain_randomization.py --mode low_friction --checkpoint cpof_bfmzero --motion_idx 700 --out gallery/inference_reports/R3_low_friction_motion700 --seconds 6 --seed 29"
+}

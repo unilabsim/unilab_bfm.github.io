@@ -1,0 +1,287 @@
+{
+  "schema": "showcase-gallery-v3",
+  "spec": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 50,
+    "codec": "H.264 / yuv420p",
+    "pairs": "side-by-side 960+960, time-aligned, labels bottom-left/right",
+    "checkpoints": {
+      "g1": "cpof_bfmzero/g1_drv2",
+      "t800": "cpof_bfmzero/t800_v1"
+    }
+  },
+  "pairs": [
+    {
+      "directory": "pair-01",
+      "title": "格斗 · 整周转身",
+      "category": "fight",
+      "motion_idx": 838,
+      "motion_key": "fightAndSports1_subject4_clip0",
+      "start_time_s": 3.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 8.11,
+      "t800_body_err_cm_mean": 15.26
+    },
+    {
+      "directory": "pair-02",
+      "title": "格斗 · 快速连段",
+      "category": "fight",
+      "motion_idx": 846,
+      "motion_key": "fightAndSports1_subject4_clip8",
+      "start_time_s": 1.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 6.24,
+      "t800_body_err_cm_mean": 16.04
+    },
+    {
+      "directory": "pair-03",
+      "title": "格斗 · 体育动作",
+      "category": "fight",
+      "motion_idx": 857,
+      "motion_key": "fightAndSports1_subject4_clip19",
+      "start_time_s": 2.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 11.21,
+      "t800_body_err_cm_mean": 37.83
+    },
+    {
+      "directory": "pair-04",
+      "title": "格斗 · 体育动作",
+      "category": "fight",
+      "motion_idx": 845,
+      "motion_key": "fightAndSports1_subject4_clip7",
+      "start_time_s": 3.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 6.69,
+      "t800_body_err_cm_mean": 5.29
+    },
+    {
+      "directory": "pair-05",
+      "title": "格斗 · 体育动作",
+      "category": "fight",
+      "motion_idx": 859,
+      "motion_key": "fightAndSports1_subject4_clip21",
+      "start_time_s": 1.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 14.29,
+      "t800_body_err_cm_mean": 23.28
+    },
+    {
+      "directory": "pair-06",
+      "title": "舞蹈 · 连续旋转",
+      "category": "dance",
+      "motion_idx": 770,
+      "motion_key": "dance2_subject3_clip2",
+      "start_time_s": 0.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 7.81,
+      "t800_body_err_cm_mean": 26.99
+    },
+    {
+      "directory": "pair-07",
+      "title": "舞蹈 · 行进转身",
+      "category": "dance",
+      "motion_idx": 633,
+      "motion_key": "dance2_subject1_clip0",
+      "start_time_s": 0.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 7.45,
+      "t800_body_err_cm_mean": 17.26
+    },
+    {
+      "directory": "pair-08",
+      "title": "舞蹈 · 行进",
+      "category": "dance",
+      "motion_idx": 147,
+      "motion_key": "dance1_subject2_clip1",
+      "start_time_s": 0.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 10.57,
+      "t800_body_err_cm_mean": 22.74
+    },
+    {
+      "directory": "pair-09",
+      "title": "冲刺跑",
+      "category": "run",
+      "motion_idx": 271,
+      "motion_key": "sprint1_subject2_clip11",
+      "start_time_s": 0.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 22.96,
+      "t800_body_err_cm_mean": 25.9
+    },
+    {
+      "directory": "pair-10",
+      "title": "跑步",
+      "category": "run",
+      "motion_idx": 123,
+      "motion_key": "run1_subject5_clip0",
+      "start_time_s": 0.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 16.52,
+      "t800_body_err_cm_mean": 27.7
+    },
+    {
+      "directory": "pair-11",
+      "title": "跳跃 · 腾空",
+      "category": "jump",
+      "motion_idx": 258,
+      "motion_key": "jumps1_subject5_clip22",
+      "start_time_s": 0.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 15.89,
+      "t800_body_err_cm_mean": 29.59
+    },
+    {
+      "directory": "pair-12",
+      "title": "深蹲行走",
+      "category": "crouch",
+      "motion_idx": 466,
+      "motion_key": "walk3_subject3_clip23",
+      "start_time_s": 0.0,
+      "duration_s": 6.0,
+      "frame_count": 300,
+      "g1_completed": true,
+      "t800_completed": true,
+      "t800_tracking_quality": "pass",
+      "g1_body_err_cm_mean": 12.26,
+      "t800_body_err_cm_mean": 15.24
+    }
+  ],
+  "sim2sim": [
+    {
+      "directory": "sim2sim-backend",
+      "mode": "backend",
+      "motion_key": "fightAndSports1_subject4_clip0",
+      "left": {
+        "label": "MuJoCo",
+        "policy": "PyTorch",
+        "backend": "MuJoCo"
+      },
+      "right": {
+        "label": "Motrix",
+        "policy": "PyTorch",
+        "backend": "Motrix"
+      },
+      "stats": {
+        "root_diff_cm": {
+          "mean": 0.5769531003671449,
+          "max": 1.1422246804826577,
+          "final": 1.1264011284437314
+        },
+        "max_action_norm_diff_percent": {
+          "mean": 14.53890843073527,
+          "max": 216.59970092773438,
+          "final": 26.81598663330078
+        }
+      },
+      "motion_idx": 838
+    },
+    {
+      "directory": "sim2sim-export",
+      "mode": "policy",
+      "motion_key": "fightAndSports1_subject4_clip0",
+      "left": {
+        "label": "ONNX deployment",
+        "policy": "ONNX",
+        "backend": "MuJoCo"
+      },
+      "right": {
+        "label": "PyTorch training",
+        "policy": "PyTorch",
+        "backend": "MuJoCo"
+      },
+      "stats": {
+        "root_diff_cm": {
+          "mean": 2.054011382245035e-05,
+          "max": 4.853754483134249e-05,
+          "final": 4.853754483134249e-05
+        },
+        "max_action_norm_diff_percent": {
+          "mean": 0.001032969681546092,
+          "max": 0.003528594970703125,
+          "final": 0.0013828277587890625
+        }
+      },
+      "motion_idx": 838
+    }
+  ],
+  "domain_rand": [
+    {
+      "directory": "dr-push",
+      "mode": "push",
+      "motion_key": "walk2_subject3_clip7",
+      "perturbation": {
+        "type": "push",
+        "seed": 29,
+        "friction_multiplier": null,
+        "push_time_s": 1.92,
+        "push_speed_mps": 0.7539497235564657,
+        "push_direction_xy": [
+          -0.31217835183420656,
+          0.950023513733254
+        ]
+      },
+      "completed": true
+    },
+    {
+      "directory": "dr-lowfriction",
+      "mode": "low_friction",
+      "motion_key": "walk2_subject3_clip7",
+      "perturbation": {
+        "type": "low_friction",
+        "seed": 29,
+        "friction_multiplier": 0.3,
+        "push_time_s": null,
+        "push_speed_mps": null,
+        "push_direction_xy": null
+      },
+      "completed": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "clip": 22345,
+  "frames": 235,
+  "seconds": 4.7,
+  "shape": [
+    1080,
+    1920
+  ],
+  "ours_full_success": true,
+  "common_prefix_steps": 235,
+  "initial_state_match": true,
+  "statistics_source": "rendered trajectories",
+  "policies": {
+    "unilab": {
+      "success": true,
+      "steps": 235,
+      "common_root_error_m": 0.21392285207167586,
+      "common_body_error_m": 0.22937252480298914
+    },
+    "official": {
+      "success": true,
+      "steps": 235,
+      "common_root_error_m": 0.15812103768929522,
+      "common_body_error_m": 0.16722730569382932
+    }
+  },
+  "official_success": true,
+  "decoded_samples_std": [
+    31.687837291924943,
+    33.42139110587888,
+    33.65959100316155,
+    34.75847346214045,
+    34.334844310669
+  ]
+}

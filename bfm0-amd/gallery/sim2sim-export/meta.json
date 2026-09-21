@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "mode": "policy",
+  "motion_idx": 838,
+  "motion_key": "fightAndSports1_subject4_clip0",
+  "duration_s": 6.0,
+  "fps": 50,
+  "frame_count": 300,
+  "checkpoint": "cpof_bfmzero/g1_drv2",
+  "checkpoint_weights": "cpof_bfmzero/g1_drv2/model/model.safetensors",
+  "onnx": "cpof_bfmzero/g1_drv2/export/policy.onnx",
+  "left": {
+    "label": "ONNX deployment",
+    "policy": "ONNX",
+    "backend": "MuJoCo"
+  },
+  "right": {
+    "label": "PyTorch training",
+    "policy": "PyTorch",
+    "backend": "MuJoCo"
+  },
+  "stats": {
+    "root_diff_cm": {
+      "mean": 2.054011382245035e-05,
+      "max": 4.853754483134249e-05,
+      "final": 4.853754483134249e-05
+    },
+    "max_action_norm_diff_percent": {
+      "mean": 0.001032969681546092,
+      "max": 0.003528594970703125,
+      "final": 0.0013828277587890625
+    }
+  },
+  "runtime": {
+    "torch": "2.11.0+rocm7.2",
+    "torch_cuda": null,
+    "gpu": "x86_64",
+    "onnxruntime": "1.24.4"
+  },
+  "git": {
+    "branch": "issuelxf",
+    "commit": "9b665f420a758f5b3df0b6ffe10ac3a5a35aa9f8"
+  },
+  "outputs": {
+    "clip": "sim2sim_new/policy_838/policy_onnx_vs_torch_motion838.mp4",
+    "preview": "sim2sim_new/policy_838/preview.jpg",
+    "frame_metrics": "sim2sim_new/policy_838/frame_metrics.json"
+  },
+  "reproduction_command": "python scripts/report/render_sim_compare.py --mode policy --checkpoint cpof_bfmzero --motion_idx 838 --out sim2sim_new/policy_838 --seconds 6 --device cpu"
+}

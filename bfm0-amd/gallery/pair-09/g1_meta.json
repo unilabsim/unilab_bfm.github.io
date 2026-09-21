@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "motion_idx": 271,
+  "motion_key": "sprint1_subject2_clip11",
+  "start_step": 0,
+  "start_time_s": 0.0,
+  "duration_s": 6.0,
+  "rendered_duration_s": 6.0,
+  "fps": 50,
+  "frame_count": 300,
+  "ctrl_dt": 0.02,
+  "stride": 1,
+  "completed": true,
+  "finite_rollout": true,
+  "checkpoint": "cpof_bfmzero/g1_drv2",
+  "checkpoint_weights": "cpof_bfmzero/g1_drv2/model/model.safetensors",
+  "checkpoint_sha256_head": "e3fcd34eb20df626",
+  "checkpoint_step": null,
+  "checkpoint_step_note": "read from checkpoint/train_status.json when present; this deployment artifact has no train_status.json, so null means unavailable",
+  "checkpoint_internal_counters": {
+    "_aux_reward_normalizer.counter": 974544,
+    "_obs_normalizer._normalizers.history_actor._normalizer.num_batches_tracked": 1949088,
+    "_obs_normalizer._normalizers.last_action._normalizer.num_batches_tracked": 1949088,
+    "_obs_normalizer._normalizers.privileged_state._normalizer.num_batches_tracked": 1949088,
+    "_obs_normalizer._normalizers.state._normalizer.num_batches_tracked": 1949088
+  },
+  "error_stats": {
+    "root_err_cm": {
+      "mean": 22.962415203333332,
+      "p50": 20.188808,
+      "p95": 38.57082825,
+      "max": 40.431374,
+      "final": 40.431374
+    },
+    "body_err_cm": {
+      "mean": 22.96201887,
+      "p50": 19.88159,
+      "p95": 39.84220375,
+      "max": 40.952971,
+      "final": 40.952971
+    }
+  },
+  "reference": {
+    "motion_pkl": "Unilab-BFM0/src/unilab/assets/motions/g1/lafan_29dof_10s-clipped.pkl",
+    "source_fps": 30.0,
+    "resampled_fps": 50.0,
+    "reference_frame_count": 499
+  },
+  "render": {
+    "resolution": "1920x1080",
+    "codec": "H.264 / libx264 / yuv420p",
+    "overlay": "same viewport; untouched policy robot with cyan reference body-point markers",
+    "error_units": "cm"
+  },
+  "runtime": {
+    "torch": "2.8.0+cu128",
+    "torch_cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "mujoco": "3.8.0"
+  },
+  "git": {
+    "repository": "Unilab-BFM0",
+    "branch": "issuelxf",
+    "commit": "9b665f420a758f5b3df0b6ffe10ac3a5a35aa9f8"
+  },
+  "outputs": {
+    "clip": "gallery/v2_candidates/clip-15/clip.mp4",
+    "preview": "gallery/v2_candidates/clip-15/preview.jpg",
+    "frame_errors": "gallery/v2_candidates/clip-15/frame_errors.json",
+    "reference_qpos": "gallery/v2_candidates/clip-15/reference_qpos.npy",
+    "policy_qpos": "gallery/v2_candidates/clip-15/policy_qpos.npy"
+  },
+  "reproduction_command": "python scripts/report/render_tracking_overlay.py --checkpoint cpof_bfmzero/g1_drv2 --motion_idx 271 --motion_key sprint1_subject2_clip11 --out gallery/v2_candidates/clip-15 --start_step 0 --height 1080 --width 1920 --seconds 6 --device cuda"
+}

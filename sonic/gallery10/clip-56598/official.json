@@ -1,0 +1,4708 @@
+{
+  "policy": "official",
+  "checkpoint": "checkpoints/gear-sonic/sonic_release/sonic_release_unilab_gravity_last.pt",
+  "checkpoint_sha256": "32453cca451921565577915af52216ad9e38c46d62dd470a8501585a9dc5d542",
+  "initial": {
+    "observation_sha256": "ebbd2e44d907cdb4d13be7b56e7ca8005e08d100a97abbae78a4e9b6b4609728",
+    "motion_frame": 23330798
+  },
+  "frames": [
+    {
+      "motion_frame_after": 23330799,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.0319688506424427,
+      "body_error_m": 0.05332979932427406
+    },
+    {
+      "motion_frame_after": 23330800,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.04618927836418152,
+      "body_error_m": 0.06217799335718155
+    },
+    {
+      "motion_frame_after": 23330801,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.06133772060275078,
+      "body_error_m": 0.07255177199840546
+    },
+    {
+      "motion_frame_after": 23330802,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.07485442608594894,
+      "body_error_m": 0.08288800716400146
+    },
+    {
+      "motion_frame_after": 23330803,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.08506418019533157,
+      "body_error_m": 0.090565025806427
+    },
+    {
+      "motion_frame_after": 23330804,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.0944090485572815,
+      "body_error_m": 0.09772994369268417
+    },
+    {
+      "motion_frame_after": 23330805,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.10234294831752777,
+      "body_error_m": 0.1027180403470993
+    },
+    {
+      "motion_frame_after": 23330806,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.10908859223127365,
+      "body_error_m": 0.10646367073059082
+    },
+    {
+      "motion_frame_after": 23330807,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11382455378770828,
+      "body_error_m": 0.10981017351150513
+    },
+    {
+      "motion_frame_after": 23330808,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1166255846619606,
+      "body_error_m": 0.1135811135172844
+    },
+    {
+      "motion_frame_after": 23330809,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11884646862745285,
+      "body_error_m": 0.11838390678167343
+    },
+    {
+      "motion_frame_after": 23330810,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12154610455036163,
+      "body_error_m": 0.12395908683538437
+    },
+    {
+      "motion_frame_after": 23330811,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12517231702804565,
+      "body_error_m": 0.12975695729255676
+    },
+    {
+      "motion_frame_after": 23330812,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12918710708618164,
+      "body_error_m": 0.1352199763059616
+    },
+    {
+      "motion_frame_after": 23330813,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13342933356761932,
+      "body_error_m": 0.14037589728832245
+    },
+    {
+      "motion_frame_after": 23330814,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1385805308818817,
+      "body_error_m": 0.14580674469470978
+    },
+    {
+      "motion_frame_after": 23330815,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.144142284989357,
+      "body_error_m": 0.1513211578130722
+    },
+    {
+      "motion_frame_after": 23330816,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1505960077047348,
+      "body_error_m": 0.15724584460258484
+    },
+    {
+      "motion_frame_after": 23330817,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1576423943042755,
+      "body_error_m": 0.16294653713703156
+    },
+    {
+      "motion_frame_after": 23330818,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1651456654071808,
+      "body_error_m": 0.16797681152820587
+    },
+    {
+      "motion_frame_after": 23330819,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.17166994512081146,
+      "body_error_m": 0.17235873639583588
+    },
+    {
+      "motion_frame_after": 23330820,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.17651313543319702,
+      "body_error_m": 0.1757672280073166
+    },
+    {
+      "motion_frame_after": 23330821,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.18062865734100342,
+      "body_error_m": 0.17826105654239655
+    },
+    {
+      "motion_frame_after": 23330822,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1837204545736313,
+      "body_error_m": 0.1796388477087021
+    },
+    {
+      "motion_frame_after": 23330823,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.18638205528259277,
+      "body_error_m": 0.18042191863059998
+    },
+    {
+      "motion_frame_after": 23330824,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.18854470551013947,
+      "body_error_m": 0.1819685697555542
+    },
+    {
+      "motion_frame_after": 23330825,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.19012723863124847,
+      "body_error_m": 0.18363125622272491
+    },
+    {
+      "motion_frame_after": 23330826,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.19107313454151154,
+      "body_error_m": 0.18550124764442444
+    },
+    {
+      "motion_frame_after": 23330827,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1913839876651764,
+      "body_error_m": 0.18709777295589447
+    },
+    {
+      "motion_frame_after": 23330828,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.19217006862163544,
+      "body_error_m": 0.18869836628437042
+    },
+    {
+      "motion_frame_after": 23330829,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.19297371804714203,
+      "body_error_m": 0.19034452736377716
+    },
+    {
+      "motion_frame_after": 23330830,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1942722201347351,
+      "body_error_m": 0.19239790737628937
+    },
+    {
+      "motion_frame_after": 23330831,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1959678828716278,
+      "body_error_m": 0.19515930116176605
+    },
+    {
+      "motion_frame_after": 23330832,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.19839563965797424,
+      "body_error_m": 0.19876663386821747
+    },
+    {
+      "motion_frame_after": 23330833,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.20173846185207367,
+      "body_error_m": 0.2035813182592392
+    },
+    {
+      "motion_frame_after": 23330834,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2063181847333908,
+      "body_error_m": 0.20874404907226562
+    },
+    {
+      "motion_frame_after": 23330835,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.21181073784828186,
+      "body_error_m": 0.21453697979450226
+    },
+    {
+      "motion_frame_after": 23330836,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.21789956092834473,
+      "body_error_m": 0.22064583003520966
+    },
+    {
+      "motion_frame_after": 23330837,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22447259724140167,
+      "body_error_m": 0.2265411913394928
+    },
+    {
+      "motion_frame_after": 23330838,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.23146575689315796,
+      "body_error_m": 0.23230759799480438
+    },
+    {
+      "motion_frame_after": 23330839,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.23885230720043182,
+      "body_error_m": 0.23866777122020721
+    },
+    {
+      "motion_frame_after": 23330840,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.24512819945812225,
+      "body_error_m": 0.2447926104068756
+    },
+    {
+      "motion_frame_after": 23330841,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.25038793683052063,
+      "body_error_m": 0.250593364238739
+    },
+    {
+      "motion_frame_after": 23330842,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2556212842464447,
+      "body_error_m": 0.2562510669231415
+    },
+    {
+      "motion_frame_after": 23330843,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2611299753189087,
+      "body_error_m": 0.261287122964859
+    },
+    {
+      "motion_frame_after": 23330844,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26529446244239807,
+      "body_error_m": 0.26545271277427673
+    },
+    {
+      "motion_frame_after": 23330845,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26827308535575867,
+      "body_error_m": 0.268379807472229
+    },
+    {
+      "motion_frame_after": 23330846,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.27048778533935547,
+      "body_error_m": 0.27036216855049133
+    },
+    {
+      "motion_frame_after": 23330847,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.27175968885421753,
+      "body_error_m": 0.27135196328163147
+    },
+    {
+      "motion_frame_after": 23330848,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2718396782875061,
+      "body_error_m": 0.2714233100414276
+    },
+    {
+      "motion_frame_after": 23330849,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.27219340205192566,
+      "body_error_m": 0.2714688181877136
+    },
+    {
+      "motion_frame_after": 23330850,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2718030512332916,
+      "body_error_m": 0.27103763818740845
+    },
+    {
+      "motion_frame_after": 23330851,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2707917094230652,
+      "body_error_m": 0.27004602551460266
+    },
+    {
+      "motion_frame_after": 23330852,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26978766918182373,
+      "body_error_m": 0.2683348059654236
+    },
+    {
+      "motion_frame_after": 23330853,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26822617650032043,
+      "body_error_m": 0.266594797372818
+    },
+    {
+      "motion_frame_after": 23330854,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26635482907295227,
+      "body_error_m": 0.2645328938961029
+    },
+    {
+      "motion_frame_after": 23330855,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2643105983734131,
+      "body_error_m": 0.2622298300266266
+    },
+    {
+      "motion_frame_after": 23330856,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2623477578163147,
+      "body_error_m": 0.2597179412841797
+    },
+    {
+      "motion_frame_after": 23330857,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26066988706588745,
+      "body_error_m": 0.2581266760826111
+    },
+    {
+      "motion_frame_after": 23330858,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2594035267829895,
+      "body_error_m": 0.25762173533439636
+    },
+    {
+      "motion_frame_after": 23330859,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26007866859436035,
+      "body_error_m": 0.25687557458877563
+    },
+    {
+      "motion_frame_after": 23330860,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2602328062057495,
+      "body_error_m": 0.25623819231987
+    },
+    {
+      "motion_frame_after": 23330861,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.25960955023765564,
+      "body_error_m": 0.25537651777267456
+    },
+    {
+      "motion_frame_after": 23330862,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.25971269607543945,
+      "body_error_m": 0.25513970851898193
+    },
+    {
+      "motion_frame_after": 23330863,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2601073980331421,
+      "body_error_m": 0.25526002049446106
+    },
+    {
+      "motion_frame_after": 23330864,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2614651024341583,
+      "body_error_m": 0.25699475407600403
+    },
+    {
+      "motion_frame_after": 23330865,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26361653208732605,
+      "body_error_m": 0.2586418092250824
+    },
+    {
+      "motion_frame_after": 23330866,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2658643424510956,
+      "body_error_m": 0.2604627013206482
+    },
+    {
+      "motion_frame_after": 23330867,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26790446043014526,
+      "body_error_m": 0.26275017857551575
+    },
+    {
+      "motion_frame_after": 23330868,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2698189318180084,
+      "body_error_m": 0.26545247435569763
+    },
+    {
+      "motion_frame_after": 23330869,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.27234578132629395,
+      "body_error_m": 0.2691330313682556
+    },
+    {
+      "motion_frame_after": 23330870,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2752704918384552,
+      "body_error_m": 0.2733182907104492
+    },
+    {
+      "motion_frame_after": 23330871,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.27908724546432495,
+      "body_error_m": 0.27837875485420227
+    },
+    {
+      "motion_frame_after": 23330872,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2835383713245392,
+      "body_error_m": 0.2834102511405945
+    },
+    {
+      "motion_frame_after": 23330873,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2886260449886322,
+      "body_error_m": 0.28840237855911255
+    },
+    {
+      "motion_frame_after": 23330874,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2937459945678711,
+      "body_error_m": 0.29284098744392395
+    },
+    {
+      "motion_frame_after": 23330875,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2987162470817566,
+      "body_error_m": 0.29714128375053406
+    },
+    {
+      "motion_frame_after": 23330876,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3035115599632263,
+      "body_error_m": 0.3012036979198456
+    },
+    {
+      "motion_frame_after": 23330877,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30869224667549133,
+      "body_error_m": 0.30497750639915466
+    },
+    {
+      "motion_frame_after": 23330878,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3135198652744293,
+      "body_error_m": 0.30917564034461975
+    },
+    {
+      "motion_frame_after": 23330879,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.31666043400764465,
+      "body_error_m": 0.3136838376522064
+    },
+    {
+      "motion_frame_after": 23330880,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32061266899108887,
+      "body_error_m": 0.3182818293571472
+    },
+    {
+      "motion_frame_after": 23330881,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32654955983161926,
+      "body_error_m": 0.323962539434433
+    },
+    {
+      "motion_frame_after": 23330882,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3324035704135895,
+      "body_error_m": 0.32917818427085876
+    },
+    {
+      "motion_frame_after": 23330883,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.33606114983558655,
+      "body_error_m": 0.3332747519016266
+    },
+    {
+      "motion_frame_after": 23330884,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.33928146958351135,
+      "body_error_m": 0.33716848492622375
+    },
+    {
+      "motion_frame_after": 23330885,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.34236055612564087,
+      "body_error_m": 0.3406427502632141
+    },
+    {
+      "motion_frame_after": 23330886,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3462323248386383,
+      "body_error_m": 0.34396228194236755
+    },
+    {
+      "motion_frame_after": 23330887,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3505594730377197,
+      "body_error_m": 0.34698888659477234
+    },
+    {
+      "motion_frame_after": 23330888,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.35505154728889465,
+      "body_error_m": 0.34985795617103577
+    },
+    {
+      "motion_frame_after": 23330889,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.359759122133255,
+      "body_error_m": 0.3527377247810364
+    },
+    {
+      "motion_frame_after": 23330890,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.36291924118995667,
+      "body_error_m": 0.3555942177772522
+    },
+    {
+      "motion_frame_after": 23330891,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3653923273086548,
+      "body_error_m": 0.3581226170063019
+    },
+    {
+      "motion_frame_after": 23330892,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.36763274669647217,
+      "body_error_m": 0.36036521196365356
+    },
+    {
+      "motion_frame_after": 23330893,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.36946728825569153,
+      "body_error_m": 0.36231669783592224
+    },
+    {
+      "motion_frame_after": 23330894,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37039071321487427,
+      "body_error_m": 0.3637177050113678
+    },
+    {
+      "motion_frame_after": 23330895,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37116900086402893,
+      "body_error_m": 0.3656015694141388
+    },
+    {
+      "motion_frame_after": 23330896,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3719152510166168,
+      "body_error_m": 0.36849620938301086
+    },
+    {
+      "motion_frame_after": 23330897,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3728737533092499,
+      "body_error_m": 0.3713444173336029
+    },
+    {
+      "motion_frame_after": 23330898,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37385883927345276,
+      "body_error_m": 0.37427374720573425
+    },
+    {
+      "motion_frame_after": 23330899,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37335214018821716,
+      "body_error_m": 0.3768685460090637
+    },
+    {
+      "motion_frame_after": 23330900,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37391263246536255,
+      "body_error_m": 0.37960195541381836
+    },
+    {
+      "motion_frame_after": 23330901,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37741366028785706,
+      "body_error_m": 0.3823065161705017
+    },
+    {
+      "motion_frame_after": 23330902,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.38165518641471863,
+      "body_error_m": 0.38518568873405457
+    },
+    {
+      "motion_frame_after": 23330903,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3846811354160309,
+      "body_error_m": 0.3877998888492584
+    },
+    {
+      "motion_frame_after": 23330904,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3872714340686798,
+      "body_error_m": 0.3907800316810608
+    },
+    {
+      "motion_frame_after": 23330905,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.38949790596961975,
+      "body_error_m": 0.3937477469444275
+    },
+    {
+      "motion_frame_after": 23330906,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.39276185631752014,
+      "body_error_m": 0.3970160484313965
+    },
+    {
+      "motion_frame_after": 23330907,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.39690932631492615,
+      "body_error_m": 0.4009381830692291
+    },
+    {
+      "motion_frame_after": 23330908,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40161144733428955,
+      "body_error_m": 0.40519946813583374
+    },
+    {
+      "motion_frame_after": 23330909,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4076683521270752,
+      "body_error_m": 0.41012296080589294
+    },
+    {
+      "motion_frame_after": 23330910,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4138706624507904,
+      "body_error_m": 0.41488197445869446
+    },
+    {
+      "motion_frame_after": 23330911,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4198584258556366,
+      "body_error_m": 0.41926366090774536
+    },
+    {
+      "motion_frame_after": 23330912,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4245466887950897,
+      "body_error_m": 0.4231312572956085
+    },
+    {
+      "motion_frame_after": 23330913,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4282800853252411,
+      "body_error_m": 0.4265151619911194
+    },
+    {
+      "motion_frame_after": 23330914,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4309983253479004,
+      "body_error_m": 0.42986610531806946
+    },
+    {
+      "motion_frame_after": 23330915,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4333080053329468,
+      "body_error_m": 0.4331818222999573
+    },
+    {
+      "motion_frame_after": 23330916,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4355737566947937,
+      "body_error_m": 0.43606358766555786
+    },
+    {
+      "motion_frame_after": 23330917,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4377933144569397,
+      "body_error_m": 0.43917277455329895
+    },
+    {
+      "motion_frame_after": 23330918,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.43975916504859924,
+      "body_error_m": 0.44243568181991577
+    },
+    {
+      "motion_frame_after": 23330919,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4430556893348694,
+      "body_error_m": 0.4471929371356964
+    },
+    {
+      "motion_frame_after": 23330920,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.44702965021133423,
+      "body_error_m": 0.45159223675727844
+    },
+    {
+      "motion_frame_after": 23330921,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4519440531730652,
+      "body_error_m": 0.4556698203086853
+    },
+    {
+      "motion_frame_after": 23330922,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4563620090484619,
+      "body_error_m": 0.4586524963378906
+    },
+    {
+      "motion_frame_after": 23330923,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4591715931892395,
+      "body_error_m": 0.4606543183326721
+    },
+    {
+      "motion_frame_after": 23330924,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4617099463939667,
+      "body_error_m": 0.4623161852359772
+    },
+    {
+      "motion_frame_after": 23330925,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46261152625083923,
+      "body_error_m": 0.46336838603019714
+    },
+    {
+      "motion_frame_after": 23330926,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46356260776519775,
+      "body_error_m": 0.4643896222114563
+    },
+    {
+      "motion_frame_after": 23330927,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4651471972465515,
+      "body_error_m": 0.4649939239025116
+    },
+    {
+      "motion_frame_after": 23330928,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46689099073410034,
+      "body_error_m": 0.46507686376571655
+    },
+    {
+      "motion_frame_after": 23330929,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46845364570617676,
+      "body_error_m": 0.4645403027534485
+    },
+    {
+      "motion_frame_after": 23330930,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4690344035625458,
+      "body_error_m": 0.4633604884147644
+    },
+    {
+      "motion_frame_after": 23330931,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4685679078102112,
+      "body_error_m": 0.4615597426891327
+    },
+    {
+      "motion_frame_after": 23330932,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4668009877204895,
+      "body_error_m": 0.4593368470668793
+    },
+    {
+      "motion_frame_after": 23330933,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4648967981338501,
+      "body_error_m": 0.45716264843940735
+    },
+    {
+      "motion_frame_after": 23330934,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46286991238594055,
+      "body_error_m": 0.4570140838623047
+    },
+    {
+      "motion_frame_after": 23330935,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46150344610214233,
+      "body_error_m": 0.45692315697669983
+    },
+    {
+      "motion_frame_after": 23330936,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4599815607070923,
+      "body_error_m": 0.4566490352153778
+    },
+    {
+      "motion_frame_after": 23330937,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4574219286441803,
+      "body_error_m": 0.4562968313694
+    },
+    {
+      "motion_frame_after": 23330938,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4560878872871399,
+      "body_error_m": 0.45574894547462463
+    },
+    {
+      "motion_frame_after": 23330939,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4544646143913269,
+      "body_error_m": 0.4548524022102356
+    },
+    {
+      "motion_frame_after": 23330940,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.45207300782203674,
+      "body_error_m": 0.45400646328926086
+    },
+    {
+      "motion_frame_after": 23330941,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.44975486397743225,
+      "body_error_m": 0.45326492190361023
+    },
+    {
+      "motion_frame_after": 23330942,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.44873708486557007,
+      "body_error_m": 0.4526481330394745
+    },
+    {
+      "motion_frame_after": 23330943,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4486158490180969,
+      "body_error_m": 0.4522934556007385
+    },
+    {
+      "motion_frame_after": 23330944,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.45014557242393494,
+      "body_error_m": 0.4525563418865204
+    },
+    {
+      "motion_frame_after": 23330945,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.45199403166770935,
+      "body_error_m": 0.4532209038734436
+    },
+    {
+      "motion_frame_after": 23330946,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4542383849620819,
+      "body_error_m": 0.45475366711616516
+    },
+    {
+      "motion_frame_after": 23330947,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4570609927177429,
+      "body_error_m": 0.45702189207077026
+    },
+    {
+      "motion_frame_after": 23330948,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4601720869541168,
+      "body_error_m": 0.4597501754760742
+    },
+    {
+      "motion_frame_after": 23330949,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4632259011268616,
+      "body_error_m": 0.4615388512611389
+    },
+    {
+      "motion_frame_after": 23330950,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4653014540672302,
+      "body_error_m": 0.4626460671424866
+    },
+    {
+      "motion_frame_after": 23330951,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4660012722015381,
+      "body_error_m": 0.46268898248672485
+    },
+    {
+      "motion_frame_after": 23330952,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4654843807220459,
+      "body_error_m": 0.46223998069763184
+    },
+    {
+      "motion_frame_after": 23330953,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4647432565689087,
+      "body_error_m": 0.46184974908828735
+    },
+    {
+      "motion_frame_after": 23330954,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46382617950439453,
+      "body_error_m": 0.4618082642555237
+    },
+    {
+      "motion_frame_after": 23330955,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4632813036441803,
+      "body_error_m": 0.4620594084262848
+    },
+    {
+      "motion_frame_after": 23330956,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46190518140792847,
+      "body_error_m": 0.4627009928226471
+    },
+    {
+      "motion_frame_after": 23330957,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46059995889663696,
+      "body_error_m": 0.4644170105457306
+    },
+    {
+      "motion_frame_after": 23330958,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46025973558425903,
+      "body_error_m": 0.46646806597709656
+    },
+    {
+      "motion_frame_after": 23330959,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4624558389186859,
+      "body_error_m": 0.46852442622184753
+    },
+    {
+      "motion_frame_after": 23330960,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4651830196380615,
+      "body_error_m": 0.4703393578529358
+    },
+    {
+      "motion_frame_after": 23330961,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46816807985305786,
+      "body_error_m": 0.4713270366191864
+    },
+    {
+      "motion_frame_after": 23330962,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4710462987422943,
+      "body_error_m": 0.4722041189670563
+    },
+    {
+      "motion_frame_after": 23330963,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.47369879484176636,
+      "body_error_m": 0.47317126393318176
+    },
+    {
+      "motion_frame_after": 23330964,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.477787047624588,
+      "body_error_m": 0.4746749997138977
+    },
+    {
+      "motion_frame_after": 23330965,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4817831814289093,
+      "body_error_m": 0.47608181834220886
+    },
+    {
+      "motion_frame_after": 23330966,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4860389232635498,
+      "body_error_m": 0.477708101272583
+    },
+    {
+      "motion_frame_after": 23330967,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49009284377098083,
+      "body_error_m": 0.4794061481952667
+    },
+    {
+      "motion_frame_after": 23330968,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4935491979122162,
+      "body_error_m": 0.4808953106403351
+    },
+    {
+      "motion_frame_after": 23330969,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4958595037460327,
+      "body_error_m": 0.48150354623794556
+    },
+    {
+      "motion_frame_after": 23330970,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49674850702285767,
+      "body_error_m": 0.4816194474697113
+    },
+    {
+      "motion_frame_after": 23330971,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4962140619754791,
+      "body_error_m": 0.4813115894794464
+    },
+    {
+      "motion_frame_after": 23330972,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4949670732021332,
+      "body_error_m": 0.48133179545402527
+    },
+    {
+      "motion_frame_after": 23330973,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4944687783718109,
+      "body_error_m": 0.4818221926689148
+    },
+    {
+      "motion_frame_after": 23330974,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49393829703330994,
+      "body_error_m": 0.48274174332618713
+    },
+    {
+      "motion_frame_after": 23330975,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49318844079971313,
+      "body_error_m": 0.48357799649238586
+    },
+    {
+      "motion_frame_after": 23330976,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49137601256370544,
+      "body_error_m": 0.48405951261520386
+    },
+    {
+      "motion_frame_after": 23330977,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48892641067504883,
+      "body_error_m": 0.48524585366249084
+    },
+    {
+      "motion_frame_after": 23330978,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48664185404777527,
+      "body_error_m": 0.4865903854370117
+    },
+    {
+      "motion_frame_after": 23330979,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48578763008117676,
+      "body_error_m": 0.4873926043510437
+    },
+    {
+      "motion_frame_after": 23330980,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4856228232383728,
+      "body_error_m": 0.48804420232772827
+    },
+    {
+      "motion_frame_after": 23330981,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48626509308815,
+      "body_error_m": 0.4880499541759491
+    },
+    {
+      "motion_frame_after": 23330982,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4873870313167572,
+      "body_error_m": 0.48856115341186523
+    },
+    {
+      "motion_frame_after": 23330983,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4887852072715759,
+      "body_error_m": 0.4895186424255371
+    },
+    {
+      "motion_frame_after": 23330984,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4910426437854767,
+      "body_error_m": 0.4910792410373688
+    },
+    {
+      "motion_frame_after": 23330985,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4936556816101074,
+      "body_error_m": 0.4931407570838928
+    },
+    {
+      "motion_frame_after": 23330986,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.496642529964447,
+      "body_error_m": 0.49560239911079407
+    },
+    {
+      "motion_frame_after": 23330987,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4994185268878937,
+      "body_error_m": 0.49755579233169556
+    },
+    {
+      "motion_frame_after": 23330988,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5017562508583069,
+      "body_error_m": 0.49912229180336
+    },
+    {
+      "motion_frame_after": 23330989,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5023209452629089,
+      "body_error_m": 0.49945610761642456
+    },
+    {
+      "motion_frame_after": 23330990,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5019600987434387,
+      "body_error_m": 0.49925604462623596
+    },
+    {
+      "motion_frame_after": 23330991,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.499989777803421,
+      "body_error_m": 0.4984135925769806
+    },
+    {
+      "motion_frame_after": 23330992,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4976172149181366,
+      "body_error_m": 0.49756699800491333
+    },
+    {
+      "motion_frame_after": 23330993,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4952675998210907,
+      "body_error_m": 0.49713268876075745
+    },
+    {
+      "motion_frame_after": 23330994,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49318230152130127,
+      "body_error_m": 0.49617382884025574
+    },
+    {
+      "motion_frame_after": 23330995,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49174678325653076,
+      "body_error_m": 0.495952844619751
+    },
+    {
+      "motion_frame_after": 23330996,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4904487133026123,
+      "body_error_m": 0.49648743867874146
+    },
+    {
+      "motion_frame_after": 23330997,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4894985258579254,
+      "body_error_m": 0.4970901310443878
+    },
+    {
+      "motion_frame_after": 23330998,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4891505241394043,
+      "body_error_m": 0.49775537848472595
+    },
+    {
+      "motion_frame_after": 23330999,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4898541569709778,
+      "body_error_m": 0.49742749333381653
+    },
+    {
+      "motion_frame_after": 23331000,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4909505844116211,
+      "body_error_m": 0.497527152299881
+    },
+    {
+      "motion_frame_after": 23331001,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49283209443092346,
+      "body_error_m": 0.49794524908065796
+    },
+    {
+      "motion_frame_after": 23331002,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4960363805294037,
+      "body_error_m": 0.49898675084114075
+    },
+    {
+      "motion_frame_after": 23331003,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4998629689216614,
+      "body_error_m": 0.5006328821182251
+    },
+    {
+      "motion_frame_after": 23331004,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5047994256019592,
+      "body_error_m": 0.5028815269470215
+    },
+    {
+      "motion_frame_after": 23331005,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5097208619117737,
+      "body_error_m": 0.5054445862770081
+    },
+    {
+      "motion_frame_after": 23331006,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.514742910861969,
+      "body_error_m": 0.5082107782363892
+    },
+    {
+      "motion_frame_after": 23331007,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5191516280174255,
+      "body_error_m": 0.5108352899551392
+    },
+    {
+      "motion_frame_after": 23331008,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5229067206382751,
+      "body_error_m": 0.5130022764205933
+    },
+    {
+      "motion_frame_after": 23331009,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5244902968406677,
+      "body_error_m": 0.5141817331314087
+    },
+    {
+      "motion_frame_after": 23331010,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5251795053482056,
+      "body_error_m": 0.5147815942764282
+    },
+    {
+      "motion_frame_after": 23331011,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5250007510185242,
+      "body_error_m": 0.5153672099113464
+    },
+    {
+      "motion_frame_after": 23331012,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5241804122924805,
+      "body_error_m": 0.5160467028617859
+    },
+    {
+      "motion_frame_after": 23331013,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5232264995574951,
+      "body_error_m": 0.516923725605011
+    },
+    {
+      "motion_frame_after": 23331014,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5205684900283813,
+      "body_error_m": 0.5169771909713745
+    },
+    {
+      "motion_frame_after": 23331015,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5181723833084106,
+      "body_error_m": 0.517119288444519
+    },
+    {
+      "motion_frame_after": 23331016,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5153707265853882,
+      "body_error_m": 0.5178817510604858
+    },
+    {
+      "motion_frame_after": 23331017,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.513003408908844,
+      "body_error_m": 0.5181371569633484
+    },
+    {
+      "motion_frame_after": 23331018,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5116814970970154,
+      "body_error_m": 0.5180515646934509
+    },
+    {
+      "motion_frame_after": 23331019,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5109128952026367,
+      "body_error_m": 0.517209529876709
+    },
+    {
+      "motion_frame_after": 23331020,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5104342699050903,
+      "body_error_m": 0.516466498374939
+    },
+    {
+      "motion_frame_after": 23331021,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.510732889175415,
+      "body_error_m": 0.5156896114349365
+    },
+    {
+      "motion_frame_after": 23331022,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5108456611633301,
+      "body_error_m": 0.5145493745803833
+    },
+    {
+      "motion_frame_after": 23331023,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5101077556610107,
+      "body_error_m": 0.513523280620575
+    },
+    {
+      "motion_frame_after": 23331024,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5096269249916077,
+      "body_error_m": 0.5123347043991089
+    },
+    {
+      "motion_frame_after": 23331025,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.509553074836731,
+      "body_error_m": 0.5112227201461792
+    },
+    {
+      "motion_frame_after": 23331026,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5097453594207764,
+      "body_error_m": 0.509867787361145
+    },
+    {
+      "motion_frame_after": 23331027,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5094114542007446,
+      "body_error_m": 0.5078039765357971
+    },
+    {
+      "motion_frame_after": 23331028,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5081902742385864,
+      "body_error_m": 0.5052013993263245
+    },
+    {
+      "motion_frame_after": 23331029,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5044531226158142,
+      "body_error_m": 0.5019660592079163
+    },
+    {
+      "motion_frame_after": 23331030,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49980950355529785,
+      "body_error_m": 0.49874573945999146
+    },
+    {
+      "motion_frame_after": 23331031,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4944673478603363,
+      "body_error_m": 0.4955650269985199
+    },
+    {
+      "motion_frame_after": 23331032,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48939502239227295,
+      "body_error_m": 0.49234774708747864
+    },
+    {
+      "motion_frame_after": 23331033,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4848887026309967,
+      "body_error_m": 0.4892832934856415
+    },
+    {
+      "motion_frame_after": 23331034,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48082438111305237,
+      "body_error_m": 0.4866860806941986
+    },
+    {
+      "motion_frame_after": 23331035,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4777107834815979,
+      "body_error_m": 0.4848192632198334
+    },
+    {
+      "motion_frame_after": 23331036,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4747031033039093,
+      "body_error_m": 0.4834308922290802
+    },
+    {
+      "motion_frame_after": 23331037,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.47328242659568787,
+      "body_error_m": 0.48236942291259766
+    },
+    {
+      "motion_frame_after": 23331038,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4731844961643219,
+      "body_error_m": 0.4817192256450653
+    },
+    {
+      "motion_frame_after": 23331039,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.47451263666152954,
+      "body_error_m": 0.4806377589702606
+    },
+    {
+      "motion_frame_after": 23331040,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.475879967212677,
+      "body_error_m": 0.48007312417030334
+    },
+    {
+      "motion_frame_after": 23331041,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4776608943939209,
+      "body_error_m": 0.4798760712146759
+    },
+    {
+      "motion_frame_after": 23331042,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4800949692726135,
+      "body_error_m": 0.48057255148887634
+    },
+    {
+      "motion_frame_after": 23331043,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4832031726837158,
+      "body_error_m": 0.48206958174705505
+    },
+    {
+      "motion_frame_after": 23331044,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4867466688156128,
+      "body_error_m": 0.48449811339378357
+    },
+    {
+      "motion_frame_after": 23331045,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4902091920375824,
+      "body_error_m": 0.4869786202907562
+    },
+    {
+      "motion_frame_after": 23331046,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4938200116157532,
+      "body_error_m": 0.48964589834213257
+    },
+    {
+      "motion_frame_after": 23331047,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4969490170478821,
+      "body_error_m": 0.49181240797042847
+    },
+    {
+      "motion_frame_after": 23331048,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4994301497936249,
+      "body_error_m": 0.4931792616844177
+    },
+    {
+      "motion_frame_after": 23331049,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4997982382774353,
+      "body_error_m": 0.4937379062175751
+    },
+    {
+      "motion_frame_after": 23331050,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4994547665119171,
+      "body_error_m": 0.49397748708724976
+    },
+    {
+      "motion_frame_after": 23331051,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4985802173614502,
+      "body_error_m": 0.4943878650665283
+    },
+    {
+      "motion_frame_after": 23331052,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4974152147769928,
+      "body_error_m": 0.49439677596092224
+    },
+    {
+      "motion_frame_after": 23331053,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4958018362522125,
+      "body_error_m": 0.4938949644565582
+    },
+    {
+      "motion_frame_after": 23331054,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4913947582244873,
+      "body_error_m": 0.49331435561180115
+    },
+    {
+      "motion_frame_after": 23331055,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48771682381629944,
+      "body_error_m": 0.49179455637931824
+    },
+    {
+      "motion_frame_after": 23331056,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48412665724754333,
+      "body_error_m": 0.49074843525886536
+    },
+    {
+      "motion_frame_after": 23331057,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4805658459663391,
+      "body_error_m": 0.4885658621788025
+    },
+    {
+      "motion_frame_after": 23331058,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4778054356575012,
+      "body_error_m": 0.4861319363117218
+    },
+    {
+      "motion_frame_after": 23331059,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.47547659277915955,
+      "body_error_m": 0.48271259665489197
+    },
+    {
+      "motion_frame_after": 23331060,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4734276235103607,
+      "body_error_m": 0.47973039746284485
+    },
+    {
+      "motion_frame_after": 23331061,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4717889130115509,
+      "body_error_m": 0.47678112983703613
+    },
+    {
+      "motion_frame_after": 23331062,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.469979465007782,
+      "body_error_m": 0.4734360873699188
+    },
+    {
+      "motion_frame_after": 23331063,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4675133526325226,
+      "body_error_m": 0.4701530933380127
+    },
+    {
+      "motion_frame_after": 23331064,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4644203782081604,
+      "body_error_m": 0.4660945236682892
+    },
+    {
+      "motion_frame_after": 23331065,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46089521050453186,
+      "body_error_m": 0.4620002210140228
+    },
+    {
+      "motion_frame_after": 23331066,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.45680516958236694,
+      "body_error_m": 0.457541286945343
+    },
+    {
+      "motion_frame_after": 23331067,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4522971212863922,
+      "body_error_m": 0.45235711336135864
+    },
+    {
+      "motion_frame_after": 23331068,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.44733938574790955,
+      "body_error_m": 0.4465915858745575
+    },
+    {
+      "motion_frame_after": 23331069,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4407632052898407,
+      "body_error_m": 0.44011858105659485
+    },
+    {
+      "motion_frame_after": 23331070,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.43361014127731323,
+      "body_error_m": 0.4337014853954315
+    },
+    {
+      "motion_frame_after": 23331071,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4258723258972168,
+      "body_error_m": 0.42759016156196594
+    },
+    {
+      "motion_frame_after": 23331072,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4183889925479889,
+      "body_error_m": 0.42153066396713257
+    },
+    {
+      "motion_frame_after": 23331073,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4117765724658966,
+      "body_error_m": 0.41593894362449646
+    },
+    {
+      "motion_frame_after": 23331074,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40608859062194824,
+      "body_error_m": 0.41073909401893616
+    },
+    {
+      "motion_frame_after": 23331075,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40170469880104065,
+      "body_error_m": 0.4067320227622986
+    },
+    {
+      "motion_frame_after": 23331076,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3970111608505249,
+      "body_error_m": 0.402811735868454
+    },
+    {
+      "motion_frame_after": 23331077,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.39466384053230286,
+      "body_error_m": 0.39991065859794617
+    },
+    {
+      "motion_frame_after": 23331078,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.39422938227653503,
+      "body_error_m": 0.39835602045059204
+    },
+    {
+      "motion_frame_after": 23331079,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3937033414840698,
+      "body_error_m": 0.396975576877594
+    },
+    {
+      "motion_frame_after": 23331080,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.39345571398735046,
+      "body_error_m": 0.3965456187725067
+    },
+    {
+      "motion_frame_after": 23331081,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3940281867980957,
+      "body_error_m": 0.39656373858451843
+    },
+    {
+      "motion_frame_after": 23331082,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3958445191383362,
+      "body_error_m": 0.3970191180706024
+    },
+    {
+      "motion_frame_after": 23331083,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3986543118953705,
+      "body_error_m": 0.3977430462837219
+    },
+    {
+      "motion_frame_after": 23331084,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40184327960014343,
+      "body_error_m": 0.3990898132324219
+    },
+    {
+      "motion_frame_after": 23331085,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40486451983451843,
+      "body_error_m": 0.40073952078819275
+    },
+    {
+      "motion_frame_after": 23331086,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40764814615249634,
+      "body_error_m": 0.40268346667289734
+    },
+    {
+      "motion_frame_after": 23331087,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40946391224861145,
+      "body_error_m": 0.40448957681655884
+    },
+    {
+      "motion_frame_after": 23331088,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.41057005524635315,
+      "body_error_m": 0.4064364731311798
+    },
+    {
+      "motion_frame_after": 23331089,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4106081426143646,
+      "body_error_m": 0.40830808877944946
+    },
+    {
+      "motion_frame_after": 23331090,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4106086790561676,
+      "body_error_m": 0.4101690351963043
+    },
+    {
+      "motion_frame_after": 23331091,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4106253385543823,
+      "body_error_m": 0.4110608398914337
+    },
+    {
+      "motion_frame_after": 23331092,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4094794690608978,
+      "body_error_m": 0.4116922914981842
+    },
+    {
+      "motion_frame_after": 23331093,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4077432453632355,
+      "body_error_m": 0.41219398379325867
+    },
+    {
+      "motion_frame_after": 23331094,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40617311000823975,
+      "body_error_m": 0.41313013434410095
+    },
+    {
+      "motion_frame_after": 23331095,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40567919611930847,
+      "body_error_m": 0.4135189950466156
+    },
+    {
+      "motion_frame_after": 23331096,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40614211559295654,
+      "body_error_m": 0.4135470688343048
+    },
+    {
+      "motion_frame_after": 23331097,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4057157039642334,
+      "body_error_m": 0.41200438141822815
+    },
+    {
+      "motion_frame_after": 23331098,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40451735258102417,
+      "body_error_m": 0.4100037217140198
+    },
+    {
+      "motion_frame_after": 23331099,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40237873792648315,
+      "body_error_m": 0.40715304017066956
+    },
+    {
+      "motion_frame_after": 23331100,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3994148373603821,
+      "body_error_m": 0.40402382612228394
+    },
+    {
+      "motion_frame_after": 23331101,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.396033376455307,
+      "body_error_m": 0.4000895321369171
+    },
+    {
+      "motion_frame_after": 23331102,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3921157717704773,
+      "body_error_m": 0.3952655792236328
+    },
+    {
+      "motion_frame_after": 23331103,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3877023160457611,
+      "body_error_m": 0.3900175988674164
+    },
+    {
+      "motion_frame_after": 23331104,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.38194143772125244,
+      "body_error_m": 0.38421180844306946
+    },
+    {
+      "motion_frame_after": 23331105,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3759089708328247,
+      "body_error_m": 0.37837839126586914
+    },
+    {
+      "motion_frame_after": 23331106,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.36963438987731934,
+      "body_error_m": 0.3724879324436188
+    },
+    {
+      "motion_frame_after": 23331107,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3631047010421753,
+      "body_error_m": 0.36600345373153687
+    },
+    {
+      "motion_frame_after": 23331108,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.35671672224998474,
+      "body_error_m": 0.3595569431781769
+    },
+    {
+      "motion_frame_after": 23331109,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.34980085492134094,
+      "body_error_m": 0.35345545411109924
+    },
+    {
+      "motion_frame_after": 23331110,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3429572582244873,
+      "body_error_m": 0.3478715419769287
+    },
+    {
+      "motion_frame_after": 23331111,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.33561986684799194,
+      "body_error_m": 0.3425602614879608
+    },
+    {
+      "motion_frame_after": 23331112,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3295094668865204,
+      "body_error_m": 0.3366992175579071
+    },
+    {
+      "motion_frame_after": 23331113,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3255122900009155,
+      "body_error_m": 0.33160513639450073
+    },
+    {
+      "motion_frame_after": 23331114,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3201327323913574,
+      "body_error_m": 0.32587260007858276
+    },
+    {
+      "motion_frame_after": 23331115,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3153899312019348,
+      "body_error_m": 0.3214929699897766
+    },
+    {
+      "motion_frame_after": 23331116,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3115890920162201,
+      "body_error_m": 0.3183235824108124
+    },
+    {
+      "motion_frame_after": 23331117,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3089357912540436,
+      "body_error_m": 0.3156929910182953
+    },
+    {
+      "motion_frame_after": 23331118,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3071644902229309,
+      "body_error_m": 0.31380897760391235
+    },
+    {
+      "motion_frame_after": 23331119,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3048785626888275,
+      "body_error_m": 0.31157660484313965
+    },
+    {
+      "motion_frame_after": 23331120,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30320078134536743,
+      "body_error_m": 0.30964258313179016
+    },
+    {
+      "motion_frame_after": 23331121,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30129727721214294,
+      "body_error_m": 0.3076159954071045
+    },
+    {
+      "motion_frame_after": 23331122,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2993158996105194,
+      "body_error_m": 0.306103378534317
+    },
+    {
+      "motion_frame_after": 23331123,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2977575361728668,
+      "body_error_m": 0.3050229847431183
+    },
+    {
+      "motion_frame_after": 23331124,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2965143024921417,
+      "body_error_m": 0.304525762796402
+    },
+    {
+      "motion_frame_after": 23331125,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.295657217502594,
+      "body_error_m": 0.3040023148059845
+    },
+    {
+      "motion_frame_after": 23331126,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.29479706287384033,
+      "body_error_m": 0.30363109707832336
+    },
+    {
+      "motion_frame_after": 23331127,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.29408836364746094,
+      "body_error_m": 0.30254513025283813
+    },
+    {
+      "motion_frame_after": 23331128,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2933419346809387,
+      "body_error_m": 0.3013855814933777
+    },
+    {
+      "motion_frame_after": 23331129,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.29321107268333435,
+      "body_error_m": 0.3001125454902649
+    },
+    {
+      "motion_frame_after": 23331130,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.29262667894363403,
+      "body_error_m": 0.2986476719379425
+    },
+    {
+      "motion_frame_after": 23331131,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2907271683216095,
+      "body_error_m": 0.29747194051742554
+    },
+    {
+      "motion_frame_after": 23331132,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2894582748413086,
+      "body_error_m": 0.2966941297054291
+    },
+    {
+      "motion_frame_after": 23331133,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2892397344112396,
+      "body_error_m": 0.29613837599754333
+    },
+    {
+      "motion_frame_after": 23331134,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.28812187910079956,
+      "body_error_m": 0.2945730984210968
+    },
+    {
+      "motion_frame_after": 23331135,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2875175178050995,
+      "body_error_m": 0.29296228289604187
+    },
+    {
+      "motion_frame_after": 23331136,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2863480746746063,
+      "body_error_m": 0.2905844748020172
+    },
+    {
+      "motion_frame_after": 23331137,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.28414273262023926,
+      "body_error_m": 0.2877693772315979
+    },
+    {
+      "motion_frame_after": 23331138,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.28078344464302063,
+      "body_error_m": 0.28471389412879944
+    },
+    {
+      "motion_frame_after": 23331139,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2767554223537445,
+      "body_error_m": 0.28103944659233093
+    },
+    {
+      "motion_frame_after": 23331140,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2725332975387573,
+      "body_error_m": 0.27681127190589905
+    },
+    {
+      "motion_frame_after": 23331141,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26768606901168823,
+      "body_error_m": 0.27173200249671936
+    },
+    {
+      "motion_frame_after": 23331142,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.26193201541900635,
+      "body_error_m": 0.26607340574264526
+    },
+    {
+      "motion_frame_after": 23331143,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.25601282715797424,
+      "body_error_m": 0.26015743613243103
+    },
+    {
+      "motion_frame_after": 23331144,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.24991920590400696,
+      "body_error_m": 0.25458824634552
+    },
+    {
+      "motion_frame_after": 23331145,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.24407805502414703,
+      "body_error_m": 0.2491254061460495
+    },
+    {
+      "motion_frame_after": 23331146,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.23870901763439178,
+      "body_error_m": 0.24407944083213806
+    },
+    {
+      "motion_frame_after": 23331147,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.23423399031162262,
+      "body_error_m": 0.23954454064369202
+    },
+    {
+      "motion_frame_after": 23331148,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22978967428207397,
+      "body_error_m": 0.23527087271213531
+    },
+    {
+      "motion_frame_after": 23331149,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22485946118831635,
+      "body_error_m": 0.23148448765277863
+    },
+    {
+      "motion_frame_after": 23331150,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22074128687381744,
+      "body_error_m": 0.2272886037826538
+    },
+    {
+      "motion_frame_after": 23331151,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.21858438849449158,
+      "body_error_m": 0.22266998887062073
+    },
+    {
+      "motion_frame_after": 23331152,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2155134081840515,
+      "body_error_m": 0.21762393414974213
+    },
+    {
+      "motion_frame_after": 23331153,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2116377055644989,
+      "body_error_m": 0.2126874178647995
+    },
+    {
+      "motion_frame_after": 23331154,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.205873504281044,
+      "body_error_m": 0.20822320878505707
+    },
+    {
+      "motion_frame_after": 23331155,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2005622833967209,
+      "body_error_m": 0.20462600886821747
+    },
+    {
+      "motion_frame_after": 23331156,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.19572001695632935,
+      "body_error_m": 0.20156952738761902
+    },
+    {
+      "motion_frame_after": 23331157,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1910589188337326,
+      "body_error_m": 0.1989772468805313
+    },
+    {
+      "motion_frame_after": 23331158,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.18701542913913727,
+      "body_error_m": 0.19673024117946625
+    },
+    {
+      "motion_frame_after": 23331159,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.18227988481521606,
+      "body_error_m": 0.19414304196834564
+    },
+    {
+      "motion_frame_after": 23331160,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.17851413786411285,
+      "body_error_m": 0.1916070431470871
+    },
+    {
+      "motion_frame_after": 23331161,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1754254251718521,
+      "body_error_m": 0.18907897174358368
+    },
+    {
+      "motion_frame_after": 23331162,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.17288467288017273,
+      "body_error_m": 0.18697847425937653
+    },
+    {
+      "motion_frame_after": 23331163,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.17101532220840454,
+      "body_error_m": 0.18557743728160858
+    },
+    {
+      "motion_frame_after": 23331164,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1696583479642868,
+      "body_error_m": 0.1844152957201004
+    },
+    {
+      "motion_frame_after": 23331165,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1690668910741806,
+      "body_error_m": 0.18384473025798798
+    },
+    {
+      "motion_frame_after": 23331166,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1685868501663208,
+      "body_error_m": 0.18319573998451233
+    },
+    {
+      "motion_frame_after": 23331167,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16839569807052612,
+      "body_error_m": 0.1816798448562622
+    },
+    {
+      "motion_frame_after": 23331168,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16819609701633453,
+      "body_error_m": 0.17930515110492706
+    },
+    {
+      "motion_frame_after": 23331169,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16713179647922516,
+      "body_error_m": 0.1789398491382599
+    },
+    {
+      "motion_frame_after": 23331170,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16645850241184235,
+      "body_error_m": 0.17852868139743805
+    },
+    {
+      "motion_frame_after": 23331171,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16716240346431732,
+      "body_error_m": 0.17786526679992676
+    },
+    {
+      "motion_frame_after": 23331172,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16750913858413696,
+      "body_error_m": 0.17666925489902496
+    },
+    {
+      "motion_frame_after": 23331173,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16766107082366943,
+      "body_error_m": 0.17577162384986877
+    },
+    {
+      "motion_frame_after": 23331174,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16573688387870789,
+      "body_error_m": 0.17376939952373505
+    },
+    {
+      "motion_frame_after": 23331175,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16367220878601074,
+      "body_error_m": 0.1716300994157791
+    },
+    {
+      "motion_frame_after": 23331176,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16055446863174438,
+      "body_error_m": 0.16888807713985443
+    },
+    {
+      "motion_frame_after": 23331177,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1569826304912567,
+      "body_error_m": 0.1655799150466919
+    },
+    {
+      "motion_frame_after": 23331178,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.15355424582958221,
+      "body_error_m": 0.16220378875732422
+    },
+    {
+      "motion_frame_after": 23331179,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.14986994862556458,
+      "body_error_m": 0.1576637476682663
+    },
+    {
+      "motion_frame_after": 23331180,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.14604221284389496,
+      "body_error_m": 0.1530640572309494
+    },
+    {
+      "motion_frame_after": 23331181,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1411389708518982,
+      "body_error_m": 0.14808598160743713
+    },
+    {
+      "motion_frame_after": 23331182,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13627128303050995,
+      "body_error_m": 0.1437244862318039
+    },
+    {
+      "motion_frame_after": 23331183,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13197173178195953,
+      "body_error_m": 0.1399833709001541
+    },
+    {
+      "motion_frame_after": 23331184,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12930971384048462,
+      "body_error_m": 0.13666300475597382
+    },
+    {
+      "motion_frame_after": 23331185,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12826484441757202,
+      "body_error_m": 0.13396784663200378
+    },
+    {
+      "motion_frame_after": 23331186,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12844912707805634,
+      "body_error_m": 0.13174320757389069
+    },
+    {
+      "motion_frame_after": 23331187,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12860433757305145,
+      "body_error_m": 0.13054148852825165
+    },
+    {
+      "motion_frame_after": 23331188,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12804856896400452,
+      "body_error_m": 0.12983031570911407
+    },
+    {
+      "motion_frame_after": 23331189,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12876996397972107,
+      "body_error_m": 0.1283685863018036
+    },
+    {
+      "motion_frame_after": 23331190,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1299045830965042,
+      "body_error_m": 0.12684191763401031
+    },
+    {
+      "motion_frame_after": 23331191,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13078458607196808,
+      "body_error_m": 0.12537743151187897
+    },
+    {
+      "motion_frame_after": 23331192,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1310545653104782,
+      "body_error_m": 0.12464984506368637
+    },
+    {
+      "motion_frame_after": 23331193,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13118162751197815,
+      "body_error_m": 0.12439800053834915
+    },
+    {
+      "motion_frame_after": 23331194,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13044843077659607,
+      "body_error_m": 0.12484099715948105
+    },
+    {
+      "motion_frame_after": 23331195,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12918512523174286,
+      "body_error_m": 0.12536212801933289
+    },
+    {
+      "motion_frame_after": 23331196,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12685303390026093,
+      "body_error_m": 0.12600843608379364
+    },
+    {
+      "motion_frame_after": 23331197,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12396211177110672,
+      "body_error_m": 0.12691794335842133
+    },
+    {
+      "motion_frame_after": 23331198,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12137474864721298,
+      "body_error_m": 0.12799686193466187
+    },
+    {
+      "motion_frame_after": 23331199,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11893891543149948,
+      "body_error_m": 0.12865053117275238
+    },
+    {
+      "motion_frame_after": 23331200,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11714094877243042,
+      "body_error_m": 0.12916149199008942
+    },
+    {
+      "motion_frame_after": 23331201,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11580795049667358,
+      "body_error_m": 0.12977612018585205
+    },
+    {
+      "motion_frame_after": 23331202,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11557775735855103,
+      "body_error_m": 0.13057807087898254
+    },
+    {
+      "motion_frame_after": 23331203,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11650902032852173,
+      "body_error_m": 0.13186004757881165
+    },
+    {
+      "motion_frame_after": 23331204,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.11940380185842514,
+      "body_error_m": 0.13286608457565308
+    },
+    {
+      "motion_frame_after": 23331205,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.122331902384758,
+      "body_error_m": 0.13329462707042694
+    },
+    {
+      "motion_frame_after": 23331206,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12528707087039948,
+      "body_error_m": 0.13286486268043518
+    },
+    {
+      "motion_frame_after": 23331207,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.12923721969127655,
+      "body_error_m": 0.1336698830127716
+    },
+    {
+      "motion_frame_after": 23331208,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13293001055717468,
+      "body_error_m": 0.13567064702510834
+    },
+    {
+      "motion_frame_after": 23331209,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.13686318695545197,
+      "body_error_m": 0.1359601467847824
+    },
+    {
+      "motion_frame_after": 23331210,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.14073944091796875,
+      "body_error_m": 0.13626889884471893
+    },
+    {
+      "motion_frame_after": 23331211,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1434689462184906,
+      "body_error_m": 0.13690854609012604
+    },
+    {
+      "motion_frame_after": 23331212,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.145155668258667,
+      "body_error_m": 0.13871176540851593
+    },
+    {
+      "motion_frame_after": 23331213,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.14681291580200195,
+      "body_error_m": 0.1409945785999298
+    },
+    {
+      "motion_frame_after": 23331214,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.148086279630661,
+      "body_error_m": 0.1432715207338333
+    },
+    {
+      "motion_frame_after": 23331215,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.14951057732105255,
+      "body_error_m": 0.1457696408033371
+    },
+    {
+      "motion_frame_after": 23331216,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.15094895660877228,
+      "body_error_m": 0.1483302116394043
+    },
+    {
+      "motion_frame_after": 23331217,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1521683633327484,
+      "body_error_m": 0.1512213796377182
+    },
+    {
+      "motion_frame_after": 23331218,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.15379084646701813,
+      "body_error_m": 0.15443551540374756
+    },
+    {
+      "motion_frame_after": 23331219,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.15641289949417114,
+      "body_error_m": 0.15817274153232574
+    },
+    {
+      "motion_frame_after": 23331220,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1598147451877594,
+      "body_error_m": 0.16244220733642578
+    },
+    {
+      "motion_frame_after": 23331221,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16394318640232086,
+      "body_error_m": 0.16736719012260437
+    },
+    {
+      "motion_frame_after": 23331222,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.16905932128429413,
+      "body_error_m": 0.17300519347190857
+    },
+    {
+      "motion_frame_after": 23331223,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.17489324510097504,
+      "body_error_m": 0.17933644354343414
+    },
+    {
+      "motion_frame_after": 23331224,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.1814900040626526,
+      "body_error_m": 0.18549855053424835
+    },
+    {
+      "motion_frame_after": 23331225,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.18830259144306183,
+      "body_error_m": 0.19191573560237885
+    },
+    {
+      "motion_frame_after": 23331226,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.19568686187267303,
+      "body_error_m": 0.1981460154056549
+    },
+    {
+      "motion_frame_after": 23331227,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.20355716347694397,
+      "body_error_m": 0.20451173186302185
+    },
+    {
+      "motion_frame_after": 23331228,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.20890548825263977,
+      "body_error_m": 0.20935650169849396
+    },
+    {
+      "motion_frame_after": 23331229,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2147655487060547,
+      "body_error_m": 0.2138868123292923
+    },
+    {
+      "motion_frame_after": 23331230,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.21915662288665771,
+      "body_error_m": 0.21713921427726746
+    },
+    {
+      "motion_frame_after": 23331231,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22254827618598938,
+      "body_error_m": 0.2199774533510208
+    },
+    {
+      "motion_frame_after": 23331232,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22478936612606049,
+      "body_error_m": 0.22214968502521515
+    },
+    {
+      "motion_frame_after": 23331233,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22599439322948456,
+      "body_error_m": 0.22329258918762207
+    },
+    {
+      "motion_frame_after": 23331234,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2267044484615326,
+      "body_error_m": 0.22439707815647125
+    },
+    {
+      "motion_frame_after": 23331235,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22676298022270203,
+      "body_error_m": 0.22484190762043
+    },
+    {
+      "motion_frame_after": 23331236,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22697404026985168,
+      "body_error_m": 0.22528895735740662
+    },
+    {
+      "motion_frame_after": 23331237,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22695927321910858,
+      "body_error_m": 0.22536714375019073
+    },
+    {
+      "motion_frame_after": 23331238,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22633853554725647,
+      "body_error_m": 0.22514739632606506
+    },
+    {
+      "motion_frame_after": 23331239,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2254328578710556,
+      "body_error_m": 0.2242908775806427
+    },
+    {
+      "motion_frame_after": 23331240,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22413772344589233,
+      "body_error_m": 0.22309908270835876
+    },
+    {
+      "motion_frame_after": 23331241,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22269576787948608,
+      "body_error_m": 0.2217235565185547
+    },
+    {
+      "motion_frame_after": 23331242,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22146284580230713,
+      "body_error_m": 0.2203214168548584
+    },
+    {
+      "motion_frame_after": 23331243,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2205839902162552,
+      "body_error_m": 0.2188403159379959
+    },
+    {
+      "motion_frame_after": 23331244,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22018593549728394,
+      "body_error_m": 0.21790482103824615
+    },
+    {
+      "motion_frame_after": 23331245,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22010912001132965,
+      "body_error_m": 0.216927170753479
+    },
+    {
+      "motion_frame_after": 23331246,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2197139859199524,
+      "body_error_m": 0.21641893684864044
+    },
+    {
+      "motion_frame_after": 23331247,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22034583985805511,
+      "body_error_m": 0.21599285304546356
+    },
+    {
+      "motion_frame_after": 23331248,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2220517247915268,
+      "body_error_m": 0.2167767733335495
+    },
+    {
+      "motion_frame_after": 23331249,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22185593843460083,
+      "body_error_m": 0.21670661866664886
+    },
+    {
+      "motion_frame_after": 23331250,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22181019186973572,
+      "body_error_m": 0.2173895686864853
+    },
+    {
+      "motion_frame_after": 23331251,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22215056419372559,
+      "body_error_m": 0.21862812340259552
+    },
+    {
+      "motion_frame_after": 23331252,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.22404639422893524,
+      "body_error_m": 0.22108912467956543
+    },
+    {
+      "motion_frame_after": 23331253,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2264929562807083,
+      "body_error_m": 0.22383904457092285
+    },
+    {
+      "motion_frame_after": 23331254,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2297855168581009,
+      "body_error_m": 0.2272118777036667
+    },
+    {
+      "motion_frame_after": 23331255,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.23316985368728638,
+      "body_error_m": 0.23101989924907684
+    },
+    {
+      "motion_frame_after": 23331256,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.23667794466018677,
+      "body_error_m": 0.23525364696979523
+    },
+    {
+      "motion_frame_after": 23331257,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.24067868292331696,
+      "body_error_m": 0.24025295674800873
+    },
+    {
+      "motion_frame_after": 23331258,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.24524499475955963,
+      "body_error_m": 0.2457820028066635
+    },
+    {
+      "motion_frame_after": 23331259,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2514106333255768,
+      "body_error_m": 0.25149837136268616
+    },
+    {
+      "motion_frame_after": 23331260,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.25733527541160583,
+      "body_error_m": 0.2570929229259491
+    },
+    {
+      "motion_frame_after": 23331261,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2627927362918854,
+      "body_error_m": 0.26218944787979126
+    },
+    {
+      "motion_frame_after": 23331262,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.267793744802475,
+      "body_error_m": 0.2671927511692047
+    },
+    {
+      "motion_frame_after": 23331263,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.27261772751808167,
+      "body_error_m": 0.2720898985862732
+    },
+    {
+      "motion_frame_after": 23331264,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.27723428606987,
+      "body_error_m": 0.2763436734676361
+    },
+    {
+      "motion_frame_after": 23331265,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2820356786251068,
+      "body_error_m": 0.28065839409828186
+    },
+    {
+      "motion_frame_after": 23331266,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.287269651889801,
+      "body_error_m": 0.28495103120803833
+    },
+    {
+      "motion_frame_after": 23331267,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.29148030281066895,
+      "body_error_m": 0.2894621193408966
+    },
+    {
+      "motion_frame_after": 23331268,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2938087582588196,
+      "body_error_m": 0.29333311319351196
+    },
+    {
+      "motion_frame_after": 23331269,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2974846363067627,
+      "body_error_m": 0.2975059151649475
+    },
+    {
+      "motion_frame_after": 23331270,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30064934492111206,
+      "body_error_m": 0.300597220659256
+    },
+    {
+      "motion_frame_after": 23331271,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30324292182922363,
+      "body_error_m": 0.3028016686439514
+    },
+    {
+      "motion_frame_after": 23331272,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.305366188287735,
+      "body_error_m": 0.30454644560813904
+    },
+    {
+      "motion_frame_after": 23331273,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3068297505378723,
+      "body_error_m": 0.30567666888237
+    },
+    {
+      "motion_frame_after": 23331274,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3088528513908386,
+      "body_error_m": 0.3068707585334778
+    },
+    {
+      "motion_frame_after": 23331275,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.31010714173316956,
+      "body_error_m": 0.30745020508766174
+    },
+    {
+      "motion_frame_after": 23331276,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3115569055080414,
+      "body_error_m": 0.30771785974502563
+    },
+    {
+      "motion_frame_after": 23331277,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.31254276633262634,
+      "body_error_m": 0.3073098063468933
+    },
+    {
+      "motion_frame_after": 23331278,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3128809928894043,
+      "body_error_m": 0.3065054714679718
+    },
+    {
+      "motion_frame_after": 23331279,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3125600218772888,
+      "body_error_m": 0.3047299385070801
+    },
+    {
+      "motion_frame_after": 23331280,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3112148642539978,
+      "body_error_m": 0.3029753863811493
+    },
+    {
+      "motion_frame_after": 23331281,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30939435958862305,
+      "body_error_m": 0.30136463046073914
+    },
+    {
+      "motion_frame_after": 23331282,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3078913688659668,
+      "body_error_m": 0.3004780411720276
+    },
+    {
+      "motion_frame_after": 23331283,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30704113841056824,
+      "body_error_m": 0.3003525733947754
+    },
+    {
+      "motion_frame_after": 23331284,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30587801337242126,
+      "body_error_m": 0.2998259365558624
+    },
+    {
+      "motion_frame_after": 23331285,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3052230179309845,
+      "body_error_m": 0.2996332049369812
+    },
+    {
+      "motion_frame_after": 23331286,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.30425921082496643,
+      "body_error_m": 0.2998064160346985
+    },
+    {
+      "motion_frame_after": 23331287,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3016185462474823,
+      "body_error_m": 0.2998311221599579
+    },
+    {
+      "motion_frame_after": 23331288,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.298430860042572,
+      "body_error_m": 0.299730122089386
+    },
+    {
+      "motion_frame_after": 23331289,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2976137399673462,
+      "body_error_m": 0.29986563324928284
+    },
+    {
+      "motion_frame_after": 23331290,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.29731833934783936,
+      "body_error_m": 0.29990601539611816
+    },
+    {
+      "motion_frame_after": 23331291,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2980373203754425,
+      "body_error_m": 0.30029162764549255
+    },
+    {
+      "motion_frame_after": 23331292,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.2996933162212372,
+      "body_error_m": 0.3011583983898163
+    },
+    {
+      "motion_frame_after": 23331293,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3017868101596832,
+      "body_error_m": 0.3025515079498291
+    },
+    {
+      "motion_frame_after": 23331294,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3043031096458435,
+      "body_error_m": 0.30483677983283997
+    },
+    {
+      "motion_frame_after": 23331295,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3069687783718109,
+      "body_error_m": 0.3075430691242218
+    },
+    {
+      "motion_frame_after": 23331296,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.31031882762908936,
+      "body_error_m": 0.31072667241096497
+    },
+    {
+      "motion_frame_after": 23331297,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.31425046920776367,
+      "body_error_m": 0.31402358412742615
+    },
+    {
+      "motion_frame_after": 23331298,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3182194232940674,
+      "body_error_m": 0.3171670138835907
+    },
+    {
+      "motion_frame_after": 23331299,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32099318504333496,
+      "body_error_m": 0.3189799189567566
+    },
+    {
+      "motion_frame_after": 23331300,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3222927749156952,
+      "body_error_m": 0.3200468122959137
+    },
+    {
+      "motion_frame_after": 23331301,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3221708834171295,
+      "body_error_m": 0.32031944394111633
+    },
+    {
+      "motion_frame_after": 23331302,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32123681902885437,
+      "body_error_m": 0.32004514336586
+    },
+    {
+      "motion_frame_after": 23331303,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32088345289230347,
+      "body_error_m": 0.3199271559715271
+    },
+    {
+      "motion_frame_after": 23331304,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3200210928916931,
+      "body_error_m": 0.3202061057090759
+    },
+    {
+      "motion_frame_after": 23331305,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32017025351524353,
+      "body_error_m": 0.3217083811759949
+    },
+    {
+      "motion_frame_after": 23331306,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32179155945777893,
+      "body_error_m": 0.32444193959236145
+    },
+    {
+      "motion_frame_after": 23331307,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.32502222061157227,
+      "body_error_m": 0.32761654257774353
+    },
+    {
+      "motion_frame_after": 23331308,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3284575939178467,
+      "body_error_m": 0.33081313967704773
+    },
+    {
+      "motion_frame_after": 23331309,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3320125341415405,
+      "body_error_m": 0.33361151814460754
+    },
+    {
+      "motion_frame_after": 23331310,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3351862132549286,
+      "body_error_m": 0.33650684356689453
+    },
+    {
+      "motion_frame_after": 23331311,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3390822112560272,
+      "body_error_m": 0.33930376172065735
+    },
+    {
+      "motion_frame_after": 23331312,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3441394567489624,
+      "body_error_m": 0.34220513701438904
+    },
+    {
+      "motion_frame_after": 23331313,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.34931430220603943,
+      "body_error_m": 0.34479454159736633
+    },
+    {
+      "motion_frame_after": 23331314,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3548987805843353,
+      "body_error_m": 0.34754878282546997
+    },
+    {
+      "motion_frame_after": 23331315,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3594740033149719,
+      "body_error_m": 0.3497931957244873
+    },
+    {
+      "motion_frame_after": 23331316,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.36336880922317505,
+      "body_error_m": 0.3518489897251129
+    },
+    {
+      "motion_frame_after": 23331317,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3661630153656006,
+      "body_error_m": 0.35340166091918945
+    },
+    {
+      "motion_frame_after": 23331318,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3680386245250702,
+      "body_error_m": 0.35461777448654175
+    },
+    {
+      "motion_frame_after": 23331319,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.36932992935180664,
+      "body_error_m": 0.35600998997688293
+    },
+    {
+      "motion_frame_after": 23331320,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37051451206207275,
+      "body_error_m": 0.35755476355552673
+    },
+    {
+      "motion_frame_after": 23331321,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3712645471096039,
+      "body_error_m": 0.3593049645423889
+    },
+    {
+      "motion_frame_after": 23331322,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.371707558631897,
+      "body_error_m": 0.36149826645851135
+    },
+    {
+      "motion_frame_after": 23331323,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3720228672027588,
+      "body_error_m": 0.36409926414489746
+    },
+    {
+      "motion_frame_after": 23331324,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37237128615379333,
+      "body_error_m": 0.3655586838722229
+    },
+    {
+      "motion_frame_after": 23331325,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3731593191623688,
+      "body_error_m": 0.36698150634765625
+    },
+    {
+      "motion_frame_after": 23331326,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3723645508289337,
+      "body_error_m": 0.3686550557613373
+    },
+    {
+      "motion_frame_after": 23331327,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.371358186006546,
+      "body_error_m": 0.37057390809059143
+    },
+    {
+      "motion_frame_after": 23331328,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.37090200185775757,
+      "body_error_m": 0.3722243010997772
+    },
+    {
+      "motion_frame_after": 23331329,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3724839389324188,
+      "body_error_m": 0.3735508322715759
+    },
+    {
+      "motion_frame_after": 23331330,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3746165931224823,
+      "body_error_m": 0.37514662742614746
+    },
+    {
+      "motion_frame_after": 23331331,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3775167763233185,
+      "body_error_m": 0.37671858072280884
+    },
+    {
+      "motion_frame_after": 23331332,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.38039231300354004,
+      "body_error_m": 0.37891778349876404
+    },
+    {
+      "motion_frame_after": 23331333,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.38330456614494324,
+      "body_error_m": 0.38172411918640137
+    },
+    {
+      "motion_frame_after": 23331334,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.38757815957069397,
+      "body_error_m": 0.38562503457069397
+    },
+    {
+      "motion_frame_after": 23331335,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.3926102817058563,
+      "body_error_m": 0.3900148868560791
+    },
+    {
+      "motion_frame_after": 23331336,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.39823898673057556,
+      "body_error_m": 0.39460062980651855
+    },
+    {
+      "motion_frame_after": 23331337,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40301451086997986,
+      "body_error_m": 0.39826148748397827
+    },
+    {
+      "motion_frame_after": 23331338,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.406938761472702,
+      "body_error_m": 0.4011762738227844
+    },
+    {
+      "motion_frame_after": 23331339,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.40903741121292114,
+      "body_error_m": 0.40328770875930786
+    },
+    {
+      "motion_frame_after": 23331340,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4106315076351166,
+      "body_error_m": 0.40540361404418945
+    },
+    {
+      "motion_frame_after": 23331341,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4119148552417755,
+      "body_error_m": 0.40798041224479675
+    },
+    {
+      "motion_frame_after": 23331342,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4132578372955322,
+      "body_error_m": 0.4102197587490082
+    },
+    {
+      "motion_frame_after": 23331343,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.41468319296836853,
+      "body_error_m": 0.41271209716796875
+    },
+    {
+      "motion_frame_after": 23331344,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4154917001724243,
+      "body_error_m": 0.41608813405036926
+    },
+    {
+      "motion_frame_after": 23331345,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4169396758079529,
+      "body_error_m": 0.4199316203594208
+    },
+    {
+      "motion_frame_after": 23331346,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4199592173099518,
+      "body_error_m": 0.42400071024894714
+    },
+    {
+      "motion_frame_after": 23331347,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4244515597820282,
+      "body_error_m": 0.42807552218437195
+    },
+    {
+      "motion_frame_after": 23331348,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.42918381094932556,
+      "body_error_m": 0.4319002330303192
+    },
+    {
+      "motion_frame_after": 23331349,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.43434691429138184,
+      "body_error_m": 0.4356345236301422
+    },
+    {
+      "motion_frame_after": 23331350,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.439875066280365,
+      "body_error_m": 0.43951696157455444
+    },
+    {
+      "motion_frame_after": 23331351,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4463787078857422,
+      "body_error_m": 0.44376736879348755
+    },
+    {
+      "motion_frame_after": 23331352,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.45357394218444824,
+      "body_error_m": 0.44859570264816284
+    },
+    {
+      "motion_frame_after": 23331353,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.46032148599624634,
+      "body_error_m": 0.4538251459598541
+    },
+    {
+      "motion_frame_after": 23331354,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4674743413925171,
+      "body_error_m": 0.4593399167060852
+    },
+    {
+      "motion_frame_after": 23331355,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.47448214888572693,
+      "body_error_m": 0.46468353271484375
+    },
+    {
+      "motion_frame_after": 23331356,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48128968477249146,
+      "body_error_m": 0.46974319219589233
+    },
+    {
+      "motion_frame_after": 23331357,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.48706191778182983,
+      "body_error_m": 0.47399893403053284
+    },
+    {
+      "motion_frame_after": 23331358,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49168312549591064,
+      "body_error_m": 0.4774358868598938
+    },
+    {
+      "motion_frame_after": 23331359,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.4945242702960968,
+      "body_error_m": 0.4808172583580017
+    },
+    {
+      "motion_frame_after": 23331360,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49711376428604126,
+      "body_error_m": 0.4844117760658264
+    },
+    {
+      "motion_frame_after": 23331361,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.49907633662223816,
+      "body_error_m": 0.4884372055530548
+    },
+    {
+      "motion_frame_after": 23331362,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.499853253364563,
+      "body_error_m": 0.491551011800766
+    },
+    {
+      "motion_frame_after": 23331363,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5009273290634155,
+      "body_error_m": 0.4941437542438507
+    },
+    {
+      "motion_frame_after": 23331364,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5007283687591553,
+      "body_error_m": 0.49755123257637024
+    },
+    {
+      "motion_frame_after": 23331365,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.500913679599762,
+      "body_error_m": 0.5009838938713074
+    },
+    {
+      "motion_frame_after": 23331366,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5020316243171692,
+      "body_error_m": 0.5046475529670715
+    },
+    {
+      "motion_frame_after": 23331367,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5047147870063782,
+      "body_error_m": 0.5076940655708313
+    },
+    {
+      "motion_frame_after": 23331368,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5082008242607117,
+      "body_error_m": 0.5107211470603943
+    },
+    {
+      "motion_frame_after": 23331369,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5132699012756348,
+      "body_error_m": 0.5142768621444702
+    },
+    {
+      "motion_frame_after": 23331370,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.51854407787323,
+      "body_error_m": 0.5182695388793945
+    },
+    {
+      "motion_frame_after": 23331371,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5245296359062195,
+      "body_error_m": 0.5226491689682007
+    },
+    {
+      "motion_frame_after": 23331372,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5308500528335571,
+      "body_error_m": 0.5276221036911011
+    },
+    {
+      "motion_frame_after": 23331373,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5373072028160095,
+      "body_error_m": 0.5331313014030457
+    },
+    {
+      "motion_frame_after": 23331374,
+      "terminated": false,
+      "truncated": false,
+      "frozen": false,
+      "root_error_m": 0.5441864132881165,
+      "body_error_m": 0.5390032529830933
+    },
+    {
+      "motion_frame_after": 23331374,
+      "terminated": false,
+      "truncated": true,
+      "frozen": false,
+      "root_error_m": 0.523926317691803,
+      "body_error_m": 0.5187844038009644
+    }
+  ],
+  "metrics": {
+    "reward/motion_global_root_pos": 0.17055829139539336,
+    "reward/motion_global_root_ori": 0.4824067738998287,
+    "reward/motion_body_pos": 0.9806085112189916,
+    "reward/motion_body_ori": 0.8570942413868896,
+    "reward/motion_body_lin_vel": 0.894492305337453,
+    "reward/motion_body_ang_vel": 0.7464976895671577,
+    "reward/tracking_vr_5point": 1.7209063660953858,
+    "reward/anti_shake": -0.011764316424326857,
+    "reward/feet_acc": -0.5143633767175795,
+    "reward/action_rate_l2": -0.12156684782543256,
+    "reward/undesired_contacts": 0.0,
+    "reward/joint_limit": -0.00551401976450787,
+    "reward/total": 5.199355618169252,
+    "reward/mean": 0.10398711013467256,
+    "episode/count": 1.0,
+    "episode/terminated_count": 0.0,
+    "episode/truncated_count": 1.0,
+    "episode/return_sum": 60.00056254770607,
+    "episode/length_sum": 577.0,
+    "episode/length_seconds_sum": 11.540000000000001,
+    "episode/return_mean": 60.00056254770607,
+    "episode/length_mean": 577.0,
+    "episode/length_seconds_mean": 11.540000000000001
+  },
+  "camera": {
+    "cam_tracking": true,
+    "cam_tracking_extra_envs": 0,
+    "cam_distance": 3.0,
+    "cam_elevation": -15,
+    "cam_azimuth": 135
+  },
+  "physical_gpu": "2",
+  "clip": {
+    "clip_index": "56598",
+    "clip_id": "jog_arc_cw_loop_R_003__A236",
+    "frames": "577",
+    "final_steps": "577",
+    "official_steps": "577",
+    "final_success": "1",
+    "official_success": "1",
+    "final_return": "63.33910764940083",
+    "official_return": "63.34821107517928",
+    "final_mean_step_reward": "0.10977315017227181",
+    "official_mean_step_reward": "0.10978892733999875",
+    "final_root_pos_m": "0.1546704161208465",
+    "final_root_ori_rad": "0.08964006392046345",
+    "final_body_global_m": "0.16432518375782454",
+    "final_body_local_m": "0.030237504208470135",
+    "final_joint_mae_rad": "0.12427632282754371",
+    "final_feet_global_m": "0.19218774620230525",
+    "final_wrists_global_m": "0.15634432382739602",
+    "official_root_pos_m": "0.19943232737494507",
+    "official_root_ori_rad": "0.07352364356540776",
+    "official_body_global_m": "0.2009543567844239",
+    "official_body_local_m": "0.020778848118176183",
+    "official_joint_mae_rad": "0.07199232500414501",
+    "official_feet_global_m": "0.19723779431171393",
+    "official_wrists_global_m": "0.20019260947584486",
+    "group": "arc",
+    "label": "Continuous curved run",
+    "reference_path_m": 13.776456832885742,
+    "reference_speed_m_s": 1.1938004187942586,
+    "joint_range_mean_rad": 0.5379217863082886,
+    "reference_joint_speed_rad_s": 1.3095479011535645,
+    "height_range_m": 0.07770723104476929,
+    "rank_score": 0.22383197407323735
+  },
+  "unilab_revision": "ac11da7b56ff85bfb8150f9c70a7d033ab47ac62",
+  "unisim_revision": "545c4a1ef614f0cff5088733dd93ada5966fef62",
+  "config_sha256": "0fd9cc409f927e65836436930fa2fd89a7a2a6d6699f080c554a9a534fc73992",
+  "overrides": {
+    "sampling_mode": "clip_start",
+    "numba": false,
+    "num_envs": 1,
+    "seed": 7,
+    "autoreset": false,
+    "clip_index": 56598
+  },
+  "freeze_after_first_termination": true,
+  "scan_max_root_error_difference_m": 7.659196853637695e-06
+}

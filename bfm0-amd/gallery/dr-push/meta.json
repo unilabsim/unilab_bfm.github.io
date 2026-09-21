@@ -1,0 +1,38 @@
+{
+  "mode": "push",
+  "motion_idx": 700,
+  "motion_key": "walk2_subject3_clip7",
+  "duration_s": 6.0,
+  "fps": 50,
+  "frame_count": 300,
+  "completed": true,
+  "checkpoint": "cpof_bfmzero/g1_drv2",
+  "checkpoint_weights": "cpof_bfmzero/g1_drv2/model/model.safetensors",
+  "perturbation": {
+    "type": "push",
+    "seed": 29,
+    "friction_multiplier": null,
+    "push_time_s": 1.92,
+    "push_speed_mps": 0.7539497235564657,
+    "push_direction_xy": [
+      -0.31217835183420656,
+      0.950023513733254
+    ]
+  },
+  "error_stats": {
+    "root_err_cm": {
+      "mean": 34.4296842,
+      "max": 85.789413,
+      "final": 85.789413
+    }
+  },
+  "runtime": {
+    "torch": "2.8.0+cu128",
+    "gpu": "NVIDIA GeForce RTX 4090"
+  },
+  "git": {
+    "branch": "issuelxf",
+    "commit": "9b665f420a758f5b3df0b6ffe10ac3a5a35aa9f8"
+  },
+  "reproduction_command": "python scripts/report/render_domain_randomization.py --mode push --checkpoint cpof_bfmzero --motion_idx 700 --out gallery/inference_reports/R3_push_motion700 --seconds 6 --seed 29"
+}
